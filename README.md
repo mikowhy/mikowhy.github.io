@@ -8,5 +8,5 @@
 - [mikowhy@github](https://github.com/mikowhy)
 - [mikowhy@twitter](https://twitter.com/mikowhy)
 - [mikowhy@linkedin](https://www.linkedin.com/in/mikolajpaczkowski/)
-- [mikowhy@WEB | mikowhy.pl](https://mikowhy.pl/)
-- [mikowhy@WEB | internetteam.pl](http://internetteam.pl/)
+- [mikowhy@WEB - mikowhy.pl](https://mikowhy.pl/)
+- [mikowhy@WEB - internetteam.pl](http://internetteam.pl/)
