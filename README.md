@@ -11,6 +11,7 @@ I have been in the business of broadly understood `e-commerce` and `Internet mar
 
 Being a radio DJ with a philosophical twist is my passion and I have also spent half of my life working at various bars.
 
+## 🐍 🐍 Python time 🐍 🐍
 
 ----
 
